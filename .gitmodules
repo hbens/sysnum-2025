@@ -1,4 +1,4 @@
 [submodule "carotte.py"]
 	path = carotte.py
-	url = git@github.com:CarottePy/carotte.py.git
+	url = https://github.com/CarottePy/carotte.py
 	branch = main
